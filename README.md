@@ -24,10 +24,6 @@ Click on Manage domain
 
 ![image](https://user-images.githubusercontent.com/58024415/95936031-3a856700-0df2-11eb-88d1-4ebbc8877459.png)
 
-
-
-![image](https://user-images.githubusercontent.com/58024415/95936224-b8e20900-0df2-11eb-9945-2469085316ab.png)
-
 Click on Nameservers
 
 ![image](https://user-images.githubusercontent.com/58024415/95936413-23934480-0df3-11eb-9d95-ee1dc0e7b73b.png)
